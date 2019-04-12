@@ -1,4 +1,4 @@
-NAMESPACE=edbizarro/gitlab-ci-pipeline-php
+NAMESPACE=dominikba/gitlab-ci-pipeline-php
 
 .PHONY: pull build push
 
